@@ -1,5 +1,4 @@
 ﻿Python Lab
-BD2K-LINCS: Computer Programming for Big Data Biomedicine
 
 
 
@@ -45,6 +44,8 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 
 This means Python 3 is properly installed. To exit, type exit() and press enter.
+
+
 
 
 Download the dataset
