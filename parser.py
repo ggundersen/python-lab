@@ -1,4 +1,5 @@
-"""This module parses a GEO DataSet SOFT file.
+"""This module parses and cleans a GEO DataSet SOFT file and outputs the
+resultant lines into a new output file.
 """
 
 # Open the soft file and initialize an empty list.
